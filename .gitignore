@@ -1,0 +1,14 @@
+# Local credentials and secret files
+.env
+.env.*
+secrets.json
+*secret*.json
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+
+# Local system files
+.DS_Store
